@@ -50,7 +50,6 @@ app.get('/api/dinosaurs/:id', (req, res) => {
   });
 });
 
-// PORT
 const port = process.env.PORT || 8000;
 app.listen(port, () => {
   console.log(`COnnected on ${port}`);
