@@ -1,7 +1,7 @@
 const mysql = require('mysql2');
 
 /*
-CREATE USER 'dinoadmin'@'localhost' IDENTIFIED WITH mysql_native_password BY 'dinotacos';
+CREATE USER 'dinoadmin'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Dinotacos$lol44';
 GRANT ALL PRIVILEGES ON dinodanger . * TO 'dinoadmin'@'localhost';
 FLUSH PRIVILEGES;
 */
